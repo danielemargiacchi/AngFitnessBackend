@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json -s ./images"
+    "start": "json-server --watch db.json -s /opt/render/project/src/public/images"
   },
   "keywords": [],
   "author": "",
